@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brijeshsahflutterbot-gvnx",
+  "private_key_id": "4b67e9a834cac5e20ea7facf23e90d7aae09c409",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDaQGfCwvkXpGWb\n4NePDLVoYfK2chZatuH9evaW+kb1HwwgohfyIIJjC3kFqs6g9BWc6emtTBtw8oDG\n4TZ1W4rYCZ/hRGdE+fw1ywY7aQyeFE5nk/tMD88xr8W1L4H40MiLK9Fo1EJqL9uk\nHwTm9XuZ/hB107Z4ep8BLceMdkv8OhIXCjh8YSgjqU6777ZxjkWCFwSRUt0sbbi8\nwi+qma9bmVjYkV2Ghi2OMyJbuMlCIGygtDwFHpQhwBJOF5alEwLBaP1GRbO9E3FD\nbxkN9AZd2zICC3mZcjpWOpHcRFOWQ6w0JTiBsBkUwtBREpukkGH7pT/ts8NSoQoe\n/6TqQqTZAgMBAAECggEAB8ncGhJwprQWby9hKejzcVfrfDDKlO6pVm0kryMb1KQI\nwAJg1eJsnMG8TiQ4Dvze55ReYzGP2iJBT7eaRKphZE/FnZmeENNV+Yp2/LhFO7/w\nQ1h/04lN5NFHvi1Fl15GBddot/O5MgZmsW7s8xwIDukG59mIDbkcgwOB90SCdiwA\ndsZFXMN+Zl2JiQgQ3KsZ/yzeF5e4udWQ5hQwtuNtWx72u7p5HcR4WqsCtYNDrKnn\njJbYbSHK1PF2nHeuIy231w6gowg+bqE3LnyJDJ6eMW2zI9Cb9eQVj4Qbpn8vr2PI\nvC31vH/BOWsbyxzs+OgZrw5NzrrydSUEvqZtX6Bz4QKBgQD1fnLm5sSqKdGIZyIA\n1cat0xyeIBXHQLZXGrCg9+IA3lhqFpMEB6V8QfXG9lAcJGNH+5on0EChhXo5no21\nwnDEJweEqgIyN9hDnxQhG1eed7RafZOvYLHycwUcDeQBZP9BsmYueORKVas9owSy\nBxL7oRPn//jK7Bus0gApoDkRiQKBgQDjl3+GAxZUq47wmky45OAs9PckTi1Q2+UO\nNWRp/jPBXaqv6BcoyXAgd4TEEJuHASk9OCxUaEoSKfbPaqD9jUxJ9O9rdSwO2Oy3\nSx8eBduOuZX2vUch0TJl+mVbsDzkCjF+PbIFzBn3EEZtFVxb2vGb+OA5d7RT0SpH\nQOJAzd+00QKBgQDOONuy5dX9D8YJbIFe7DXK3VXj6xYAXHcP8sa/YZwDmMPy0mXL\nc9Tq7cnVyiH/kf2ogU289i7kwGitMGjgb6ckz5h8NAhGQS01mNNjAEH5R5tEjMrb\n/0FcZoy7RVvsY/gdKwy1Ky6y1wZTb7bJCjJDGMvNDvTjGbYh1gL29LYb6QKBgF4n\n6gkeM9nZk+w0WbNQdPIEck5hzVubbXrgWeeD1BOWVawqn5IvLCUybQnUORO0RkRe\nffB5qNM06zfKTEo5b6tVGsvhENYfpmb6PChmkfvNCZ6nlcsGygvoeJBjK/3HvcwV\naBX/52oQIKK2aJxTywsU/maoAEGA0jXiQPhAc+FRAoGBAKHbfnqwjzOLAXQvRGPQ\nteqkmCM9x6vuLJVYyx7ErB4Qnkc+jOyO+oanxIkMtm97dsmKiiK8ZYo/yUuePPWP\nJdOl5DwNmnPtVLkWnvItxzOQTBHVGW9MQCCYorhSCz01ZwQ3hNpzNlpccfjCgW9E\nqg2EYyzYxNtSbWxGjMJc0+EC\n-----END PRIVATE KEY-----\n",
+  "client_email": "brijeshbot@brijeshsahflutterbot-gvnx.iam.gserviceaccount.com",
+  "client_id": "118186333870743892773",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brijeshbot%40brijeshsahflutterbot-gvnx.iam.gserviceaccount.com"
+}
